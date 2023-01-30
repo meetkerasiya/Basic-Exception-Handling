@@ -4,10 +4,19 @@
     {
         public static void Division()
         {
-
+            int x=5;
+            int div=0;
             Console.WriteLine("Please enter two numbers to devide");
-            int x = int.Parse(Console.ReadLine());
-            int div = int.Parse(Console.ReadLine());
+            try
+            {
+                x= int.Parse(Console.ReadLine());
+                div=int.Parse(Console.ReadLine());
+            }
+            catch(FormatException)
+            {
+               // Console.WriteLine("Numbers not entered correctly");
+                Environment.FailFast("Numbers were not entered correctly");
+            }
             try
             {
                 div = x / div;
