@@ -1,0 +1,15 @@
+C:\Users\Meet  Kerasiya\source\repos\Basic Exception Handling\Basic Exception Handling\obj\Debug\net6.0\Basic Exception Handling.csproj.AssemblyReference.cache
+C:\Users\Meet  Kerasiya\source\repos\Basic Exception Handling\Basic Exception Handling\obj\Debug\net6.0\Basic Exception Handling.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Meet  Kerasiya\source\repos\Basic Exception Handling\Basic Exception Handling\obj\Debug\net6.0\Basic Exception Handling.AssemblyInfoInputs.cache
+C:\Users\Meet  Kerasiya\source\repos\Basic Exception Handling\Basic Exception Handling\obj\Debug\net6.0\Basic Exception Handling.AssemblyInfo.cs
+C:\Users\Meet  Kerasiya\source\repos\Basic Exception Handling\Basic Exception Handling\obj\Debug\net6.0\Basic Exception Handling.csproj.CoreCompileInputs.cache
+C:\Users\Meet  Kerasiya\source\repos\Basic Exception Handling\Basic Exception Handling\bin\Debug\net6.0\Basic Exception Handling.exe
+C:\Users\Meet  Kerasiya\source\repos\Basic Exception Handling\Basic Exception Handling\bin\Debug\net6.0\Basic Exception Handling.deps.json
+C:\Users\Meet  Kerasiya\source\repos\Basic Exception Handling\Basic Exception Handling\bin\Debug\net6.0\Basic Exception Handling.runtimeconfig.json
+C:\Users\Meet  Kerasiya\source\repos\Basic Exception Handling\Basic Exception Handling\bin\Debug\net6.0\Basic Exception Handling.dll
+C:\Users\Meet  Kerasiya\source\repos\Basic Exception Handling\Basic Exception Handling\bin\Debug\net6.0\Basic Exception Handling.pdb
+C:\Users\Meet  Kerasiya\source\repos\Basic Exception Handling\Basic Exception Handling\obj\Debug\net6.0\Basic Exception Handling.dll
+C:\Users\Meet  Kerasiya\source\repos\Basic Exception Handling\Basic Exception Handling\obj\Debug\net6.0\refint\Basic Exception Handling.dll
+C:\Users\Meet  Kerasiya\source\repos\Basic Exception Handling\Basic Exception Handling\obj\Debug\net6.0\Basic Exception Handling.pdb
+C:\Users\Meet  Kerasiya\source\repos\Basic Exception Handling\Basic Exception Handling\obj\Debug\net6.0\Basic Exception Handling.genruntimeconfig.cache
+C:\Users\Meet  Kerasiya\source\repos\Basic Exception Handling\Basic Exception Handling\obj\Debug\net6.0\ref\Basic Exception Handling.dll
